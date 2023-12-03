@@ -1,0 +1,59 @@
+Size: 4
+Array: [[1, 2], [4, 3], [3, 6], [6, 7]]
+Total Amount: 12
+Exhaustive Output: 11
+Dynamic Output: 11
+
+Size: 4
+Array: [[3, 2], [4, 3], [5, 3], [6, 7]]
+Total Amount: 10
+Exhaustive Output: 12
+Dynamic Output: 12
+
+Size: 4
+Array: [[1, 2], [2, 3], [5, 4], [6, 5]]
+Total Amount: 8
+Exhaustive Output: 8
+Dynamic Output: 8
+
+Size: 4
+Array: [[1, 2], [2, 3], [5, 4], [6, 5]]
+Total Amount: 12
+Exhaustive Output: 13
+Dynamic Output: 13
+
+Size: 5
+Array: [[1, 2], [2, 3], [5, 4], [6, 5], [3, 2]]
+Total Amount: 9
+Exhaustive Output: 11
+Dynamic Output: 11
+
+Size: 4
+Array: [[1, 2], [4, 3], [3, 6], [6, 7]]
+Total Amount: 6
+Exhaustive Output: 5
+Dynamic Output: 5
+
+Size: 4
+Array: [[3, 2], [4, 3], [5, 3], [6, 7]]
+Total Amount: 8
+Exhaustive Output: 12
+Dynamic Output: 12
+
+Size: 5
+Array: [[1, 2], [2, 3], [5, 4], [6, 5], [3, 2]]
+Total Amount: 7
+Exhaustive Output: 9
+Dynamic Output: 9
+
+Size: 5
+Array: [[1, 2], [2, 3], [5, 4], [6, 5], [3, 2]]
+Total Amount: 16
+Exhaustive Output: 17
+Dynamic Output: 17
+
+Size: 4
+Array: [[1, 2], [2, 3], [5, 4], [6, 5]]
+Total Amount: 3
+Exhaustive Output: 2
+Dynamic Output: 2
